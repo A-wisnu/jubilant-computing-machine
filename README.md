@@ -14,17 +14,17 @@
 
 </div>
 
-```javascript
-const wisnu = {
-    name: "Wisnu Hidayat",
-    role: "Full Stack Developer",
-    location: "Indonesia 🇮🇩",
-    email: "Ikanberenang50@gmail.com",
-    passion: ["Coding", "Problem Solving", "Learning New Technologies"],
-    currentFocus: "Building scalable web applications",
-    lifePhilosophy: "Code with passion, debug with patience"
-};
-```
+<div align="center">
+
+👨‍💻 **Passionate Full Stack Developer** dari Indonesia dengan pengalaman dalam membangun aplikasi web yang scalable dan user-friendly.
+
+🎯 Saya fokus pada pengembangan solusi teknologi yang inovatif dengan menggunakan teknologi terdepan. Memiliki keahlian dalam frontend dan backend development, serta database management.
+
+💡 Selalu antusias untuk belajar teknologi baru dan berkolaborasi dalam proyek-proyek yang menantang. Percaya bahwa kode yang baik adalah kode yang mudah dipahami dan di-maintain.
+
+📧 **Email:** Ikanberenang50@gmail.com
+
+</div>
 
 <div align="center">
 
@@ -89,32 +89,11 @@ const wisnu = {
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=project1&theme=tokyonight)](https://github.com/YourGitHubUsername/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=project2&theme=tokyonight)](https://github.com/YourGitHubUsername/project2)
-
-</div>
-
----
-
 <div align="center">
 
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🎵 Currently Coding To
-
-[![Spotify](https://novatorem-kappa-six.vercel.app/api/spotify)](https://open.spotify.com/user/YourSpotifyUsername)
 
 </div>
 
@@ -197,20 +176,6 @@ const wisnu = {
 **⭐ Star my repositories if you find them interesting!**
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
