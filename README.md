@@ -89,17 +89,6 @@ const wisnu = {
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=project1&theme=tokyonight)](https://github.com/YourGitHubUsername/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=project2&theme=tokyonight)](https://github.com/YourGitHubUsername/project2)
-
-</div>
-
----
-
 <div align="center">
 
 ## 📈 Contribution Graph
@@ -110,15 +99,7 @@ const wisnu = {
 
 ---
 
-<div align="center">
 
-## 🎵 Currently Coding To
-
-[![Spotify](https://novatorem-kappa-six.vercel.app/api/spotify)](https://open.spotify.com/user/YourSpotifyUsername)
-
-</div>
-
----
 
 <div align="center">
 
@@ -197,20 +178,6 @@ const wisnu = {
 **⭐ Star my repositories if you find them interesting!**
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
